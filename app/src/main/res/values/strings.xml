@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ROOMDATABASE</string>
+    <string name="empty_email">Please enter your mail id.</string>
+    <string name="please_enter_valid_email_id">Please enter your valid email id.</string>
+    <string name="empty_pass">Enter your password.</string>
+    <string name="empty_first_name">Enter your first name.</string>
+    <string name="empty_last_name">Enter your last name.</string>
+    <string name="empty_role">Enter your role</string>
+    <string name="valid_pass">Password shoild be minimum 6 digit.</string>
+    <string name="empty_pass_confirm">Enter your confirm password.</string>
+    <string name="password_do_not">Password do nat matched.</string>
+</resources>
